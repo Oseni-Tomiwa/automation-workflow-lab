@@ -46,6 +46,8 @@ Each project will eventually contain a workflow export, README, sample input/out
 
 ## Getting started
 
+For the lab's localhost Docker Compose setup, fictional fixtures, and account sign-in steps, see [Local n8n setup](docs/local-setup.md).
+
 1. Install or access an n8n instance (Cloud or self-hosted).
 2. Create a dedicated test Google Sheet and a test notification destination.
 3. Build and test the workflow with fictional data.
